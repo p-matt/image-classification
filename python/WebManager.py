@@ -111,7 +111,7 @@ class WebManager:
                         html.A('Select Files')
                     ]),
                 ),
-                html.Div(id='output-predict', style={"display": "block", "margin": "auto", "width": "90%"}),
+                html.Div(id='output-predict', style={"display": "block", "margin": "3em auto 0 auto", "width": "90%"}),
             ], id="predictions", style={"width": "49%", "display": "inline-block", "vertical-align": 'top'}),
             html.Div([
                 dcc.Input(id="input", type="text", className="form-control",
@@ -120,6 +120,6 @@ class WebManager:
                 html.Button('Search', className="btn btn-primary", id='sub',
                             style={"width": "20%", "vertical-align": "top", "display": "inline-block"}),
                 dcc.Loading(id="loading-1", type="default", style={"margin-top": "3em"}, children=html.Div(id="loading-output-1")),
-                html.Div(id='output-search', style={"margin-top": "3em"}),
+                html.Div(id='output-search', style={"margin-top": "4.5em"}),
             ], id="search", style={"display": "inline-block", "margin-top": "1em", "width": "49%"}),
         ], )
