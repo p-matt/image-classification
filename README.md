@@ -14,4 +14,4 @@ Un jupyter notebook est accesible, il reprend les étapes ci-dessus de manière 
 Le déploiement est effectué grace à heroku et est accessible [ici](https://image-head-classifier.herokuapp.com/)
 ___
 
-<img width="100%" src="https://user-images.githubusercontent.com/73102263/107223493-8b127700-6a16-11eb-9d73-6f0bf329ddde.png"/>
+<img width="100%" src="https://user-images.githubusercontent.com/73102263/107666945-6412aa00-6c8f-11eb-8c22-c5f146d7125d.jpg"/>

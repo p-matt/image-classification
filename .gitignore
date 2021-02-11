@@ -4,3 +4,8 @@
 *.pyc
 *.idea
 
+*.jpg
+*.gif
+assets/img/PandaHead/Panda4_2jpg
+*.bmp
+*.pkl
