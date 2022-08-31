@@ -7,7 +7,7 @@ Le taux de précision est au-delà des 80% lorsque l'image passée en entrée co
 ## Process
 - Récupération/création d'un dataset labelisé qui contient des images de tête d'animaux
 - Pre processing des données : redimension, RGB -> grayscale, Histogramme de gradient orienté (HOG)
-- Entrainement et optimisation d'un model avec l'estimateur SVM
+- Entrainement et optimisation d'un modèle avec l'estimateur SVM
 - Deploiement du model sur un dashboard public
 
 Un jupyter notebook est accesible, il reprend les étapes ci-dessus de manière plus approfondie.
