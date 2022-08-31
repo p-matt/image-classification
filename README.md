@@ -1,6 +1,6 @@
 # Classification d'images - Apprentissage supervisé - Scikit Learn
 
-Mise en place d'un model de machine learning sur la classification d'images.
+Mise en place d'un modèle de machine learning sur la classification d'images.
 Le model essaye de prédire si l'image que l'on lui fait passer en entrée est une tête de chien, de chat, d'ours etc.
 Le taux de précision est au-delà des 80% lorsque l'image passée en entrée correspond à celles avec lesquelles il a été entrainé, autrement dit il faut que l'image soit belle est bien une tête d'animal centrée au premier plan.
 
